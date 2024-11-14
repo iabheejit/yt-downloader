@@ -19,7 +19,7 @@ This project allows you to download all videos from a YouTube channel and conver
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/youtube-channel-downloader.git
+   git clone [https://github.com/yourusername/youtube-channel-downloader.git](https://github.com/iabheejit/yt-downloader.git)
    cd youtube-channel-downloader
    ```
 
