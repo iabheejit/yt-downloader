@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# Downloaded videos
+downloaded_videos/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
